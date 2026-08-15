@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets and generated image folders
+Dataset/
+Dataset_split/
+aligned_faces/
+unauthorized_attempts/
+
+# Generated logs
+access_log.csv
+
+# PyCharm files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -10,18 +10,6 @@ Traditional access control methods such as passwords, PINs, RFID cards, and phys
 
 This project provides a contactless authentication approach using computer vision and machine learning. It combines identity recognition with liveness verification and hardware-based access control.
 
-## Project Screenshots
-
-Add your actual project photographs here after uploading them to the repository.
-
-Suggested photographs:
-- Application interface
-- Face recognition and detection
-- Arduino and relay hardware setup
-- Authorized access
-- Unauthorized access or liveness detection
-- ThingSpeak dashboard
-
 ## Key Features
 
 - **Real-Time Face Detection:** Uses MediaPipe to detect faces from the camera stream.
